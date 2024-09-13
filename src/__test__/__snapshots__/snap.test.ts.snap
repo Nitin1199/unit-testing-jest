@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Snap Test Suite should create and test a snapshot 1`] = `
+{
+  "completed": false,
+  "id": 1,
+  "title": "delectus aut autem",
+  "userId": 2,
+}
+`;
